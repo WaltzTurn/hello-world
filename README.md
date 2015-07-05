@@ -1,1 +1,2 @@
-# hello-world
+Helllloooooooo! 
+I love programming! I learned on khan academy.
